@@ -1,0 +1,15 @@
+C:\Users\Oluwanifemi\source\repos\ConsoleApp9 excercise\bin\Debug\net6.0\ConsoleApp9 excercise.exe
+C:\Users\Oluwanifemi\source\repos\ConsoleApp9 excercise\bin\Debug\net6.0\ConsoleApp9 excercise.deps.json
+C:\Users\Oluwanifemi\source\repos\ConsoleApp9 excercise\bin\Debug\net6.0\ConsoleApp9 excercise.runtimeconfig.json
+C:\Users\Oluwanifemi\source\repos\ConsoleApp9 excercise\bin\Debug\net6.0\ConsoleApp9 excercise.dll
+C:\Users\Oluwanifemi\source\repos\ConsoleApp9 excercise\bin\Debug\net6.0\ConsoleApp9 excercise.pdb
+C:\Users\Oluwanifemi\source\repos\ConsoleApp9 excercise\obj\Debug\net6.0\ConsoleApp9 excercise.csproj.AssemblyReference.cache
+C:\Users\Oluwanifemi\source\repos\ConsoleApp9 excercise\obj\Debug\net6.0\ConsoleApp9 excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oluwanifemi\source\repos\ConsoleApp9 excercise\obj\Debug\net6.0\ConsoleApp9 excercise.AssemblyInfoInputs.cache
+C:\Users\Oluwanifemi\source\repos\ConsoleApp9 excercise\obj\Debug\net6.0\ConsoleApp9 excercise.AssemblyInfo.cs
+C:\Users\Oluwanifemi\source\repos\ConsoleApp9 excercise\obj\Debug\net6.0\ConsoleApp9 excercise.csproj.CoreCompileInputs.cache
+C:\Users\Oluwanifemi\source\repos\ConsoleApp9 excercise\obj\Debug\net6.0\ConsoleApp9 excercise.dll
+C:\Users\Oluwanifemi\source\repos\ConsoleApp9 excercise\obj\Debug\net6.0\refint\ConsoleApp9 excercise.dll
+C:\Users\Oluwanifemi\source\repos\ConsoleApp9 excercise\obj\Debug\net6.0\ConsoleApp9 excercise.pdb
+C:\Users\Oluwanifemi\source\repos\ConsoleApp9 excercise\obj\Debug\net6.0\ConsoleApp9 excercise.genruntimeconfig.cache
+C:\Users\Oluwanifemi\source\repos\ConsoleApp9 excercise\obj\Debug\net6.0\ref\ConsoleApp9 excercise.dll
